@@ -1,0 +1,37 @@
+@import '@radix-ui/colors/black-alpha.css';
+@import '@radix-ui/colors/mauve.css';
+@import '@radix-ui/colors/violet.css';
+@import '@radix-ui/colors/purple.css';
+@import '@radix-ui/colors/plum.css';
+@import '@radix-ui/colors/gray.css';
+@import '@radix-ui/colors/blue.css';
+@import '@radix-ui/colors/green.css';
+
+.ExploreSectionsToolbarRoot {
+  background-color: var(--blue-6);
+}
+
+.ExploreSectionsToolbarRoot .ToolbarButton {
+  background-color: var(--green-9);
+}
+
+.ExploreSectionsToolbarRoot .ToolbarButton:hover {
+  background-color: var(--green-10);
+}
+
+/* Disabled button */
+.ExploreSectionsToolbarRoot .ToolbarButton:disabled,
+.ExploreSectionsToolbarRoot .ToolbarButton[disabled],
+.ExploreSectionsToolbarRoot .ToolbarButton:disabled:hover,
+.ExploreSectionsToolbarRoot .ToolbarButton[disabled]:hover{
+  background-color: var(--gray-9);
+  cursor: default;
+}
+
+.HeadingPage {
+  padding: 10px;
+  border-radius: 20px;
+  background-color: var(--blue-4);
+  text-align: center;
+  color: var(--black-a11);
+}

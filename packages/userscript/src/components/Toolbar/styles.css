@@ -1,0 +1,155 @@
+@import '@radix-ui/colors/black-alpha.css';
+@import '@radix-ui/colors/mauve.css';
+@import '@radix-ui/colors/violet.css';
+@import '@radix-ui/colors/purple.css';
+@import '@radix-ui/colors/plum.css';
+@import '@radix-ui/colors/gray.css';
+
+.ToolbarRoot {
+  padding: 10px;
+  margin-top: 1.5em;
+  margin-left: 1.5em;
+  width: calc(100% - 1.5em);
+  border-radius: 6px;
+  background-color: var(--purple-6);
+  box-shadow: 0 2px 10px var(--black-a7);
+  /* Maximum minimizing capabilities */
+  /* display: flex; */ /* Disabled for maximum resizing */
+  /* min-width: max-content; */ /* Disabled for maximum resizing */
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.ToolbarToggleItem,
+.ToolbarLink,
+.ToolbarText,
+.ToolbarButton {
+  flex: 0 0 auto;
+  color: var(--mauve-11);
+  height: 25px;
+  padding: 0 5px;
+  border-radius: 4px;
+  display: inline-flex;
+  font-size: 13px;
+  line-height: 1;
+  align-items: center;
+  justify-content: center;
+}
+.ToolbarToggleItem:hover,
+.ToolbarLink:hover,
+.ToolbarButton:hover {
+  background-color: var(--violet-3);
+  color: var(--violet-11);
+}
+.ToolbarToggleItem:focus,
+.ToolbarLink:focus,
+.ToolbarButton:focus {
+  position: relative;
+  box-shadow: 0 0 0 2px var(--violet-7);
+}
+
+.ToolbarLink,
+.ToolbarText {
+  background-color: transparent;
+  justify-content: center;
+  align-items: center;
+  /* Maximum minimizing capabilities */
+  /* display: inline-flex; */ /* Disabled for maximum resizing */
+  display: inline; /* Allow resizing */
+}
+
+.ToolbarLink {
+  color: var(--violet-11);
+}
+.ToolbarLink:hover {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.ToolbarButton {
+  margin-right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+  background-color: var(--violet-9);
+}
+
+.ToolbarLink,
+.ToolbarText,
+.ToolbarButton {
+  /* Line height fix when adding icon to buttons */
+  vertical-align: middle;
+}
+
+.ToolbarLink svg,
+.ToolbarText svg,
+.ToolbarButton svg {
+  margin-right: 5px;
+  padding: 0;
+  display: inline-block;
+}
+
+.ToolbarLink svg {
+  /* Fix position due to parent having "display: inline" */
+  position: relative;
+  top: 0.2em;
+}
+
+.ToolbarButton.Warning {
+  background-color: var(--plum-9);
+}
+
+.ToolbarButton:hover {
+  background-color: var(--violet-10);
+  color: white;
+  cursor: pointer;
+}
+
+.ToolbarButton.Warning:hover {
+  background-color: var(--plum-10);
+}
+
+/* Disabled button */
+.ToolbarButton:disabled,
+.ToolbarButton[disabled],
+.ToolbarButton:disabled:hover,
+.ToolbarButton[disabled]:hover{
+  background-color: var(--gray-9);
+  cursor: default;
+}
+
+/* On screens that are 959px or less as used on Wordalist */
+@media screen and (max-width: 959px) {
+  .ToolbarToggleItem,
+  .ToolbarLink,
+  .ToolbarText,
+  .ToolbarButton {
+    font-size: 1.2em;
+    height: 2em;
+  }
+
+  .ToolbarLink svg,
+  .ToolbarText svg,
+  .ToolbarButton svg {
+    width: 1.2em;
+    height: 1.2em;
+  }
+
+  .ToolbarLink svg {
+    /* Fix position due to parent having "display: inline" */
+    position: relative;
+    top: 0.2em;
+  }
+
+}
+
+/* On screens that are 640px or less */
+@media screen and (max-width: 640px) {
+  .ToolbarButtonText {
+    display: none;
+  }
+  .ToolbarButton svg {
+    margin-right: 0;
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "dialogueGeneralDescription": "Use synchronized storage to save or retrieve different settings or states here.",
+  "dialogueSectionSettingsLanguageTitle": "WLE Settings: Language",
+  "dialogueSectionSelectionsExercisesTitle": "WLE Selections: Wordalist Exercises Info",
+  "dialogueSectionSelectionsCustomSelectionsTitle": "WLE Selections: Custom Selections",
+  "dialogueSectionSettingsLanguageLocal": "Local language",
+  "dialogueSectionSettingsLanguageSync": "Language in sync",
+  "dialogueSectionSelectionsExercisesLocal": "Local Wordalist exercises info",
+  "dialogueSectionSelectionsExercisesSync": "Wordalist exercises info in sync",
+  "dialogueSectionSelectionsCustomSelectionsLocal": "Local custom selections",
+  "dialogueSectionSelectionsCustomSelectionsSync": "Custom selections in sync",
+  "alertUploadTitle": "Replace value in sync",
+  "alertDownloadTitle": "Replace local value",
+  "alertUploadText": "Are you sure you want to replace the current synchronized value with {{value}}?",
+  "alertDownloadText": "Are you sure you want to replace the current local value with {{value}}?"
+}

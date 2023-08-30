@@ -1,0 +1,9 @@
+@import "../presets.css";
+
+:root {
+  --Alert_Dialogcontent-max-width: calc(var(--Dialogcontent-max-width) * 0.8);
+}
+
+.Alert.DialogContent {
+  max-width: var(--Alert_Dialogcontent-max-width);
+}

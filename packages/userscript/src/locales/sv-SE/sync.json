@@ -1,0 +1,16 @@
+{
+  "dialogueGeneralDescription": "Använd det synkroniserade lagringsutrymmet för att spara eller hämta olika inställningar eller tillståndsvariabler här.",
+  "dialogueSectionSettingsLanguageTitle": "WLE Inställningar: Språk",
+  "dialogueSectionSelectionsExercisesTitle": "WLE Skräddarsytt: Info för wordalistövningar",
+  "dialogueSectionSelectionsCustomSelectionsTitle": "WLE Skräddarsytt: Skräddarsydda övningar",
+  "dialogueSectionSettingsLanguageLocal": "Lokalt språk",
+  "dialogueSectionSettingsLanguageSync": "Synkat språk",
+  "dialogueSectionSelectionsExercisesLocal": "Lokal info för wordalistövningar",
+  "dialogueSectionSelectionsExercisesSync": "Synkad info för wordalistövningar",
+  "dialogueSectionSelectionsCustomSelectionsLocal": "Lokala skräddarsydda övningar",
+  "dialogueSectionSelectionsCustomSelectionsSync": "Synkade skräddarsydda övningar",
+  "alertUploadTitle": "Ersätt synkroniserat värde",
+  "alertDownloadTitle": "Ersätt lokalt värde",
+  "alertUploadText": "Är du säker på att du vill ersätta det nuvarande synkroniserade värdet med {{value}}?",
+  "alertDownloadText": "Är du säker på att du vill ersätta det nuvarande lokala värdet med {{value}}?"
+}

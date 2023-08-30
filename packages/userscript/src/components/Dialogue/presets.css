@@ -1,0 +1,31 @@
+:root {
+  --Dialogcontent-max-width: 1050px;
+  --DialogContent-height: 85vh;
+  --DialogContent-padding-top: 25px;
+  --DialogContent-padding-bottom: 25px;
+  --DialogContent-padding-left: 25px;
+  --DialogContent-padding-right: 25px;
+  --DialogTitle-padding: 0px;
+  --DialogTitle-font-size: 17px;
+  --ButtonGroup-margin-top: 25px;
+  --Button-height: 35px;
+  --IconButton-size: 25px;
+  --Label-width: 300px;
+  --Fieldset_ListItem-font-size: 15px;
+
+  --Dialogcontent-max-width-mobile: 100vw;
+  --DialogContent-height-mobile: 100vh;
+  --DialogContent-padding-top-mobile: 30px;
+  --DialogContent-padding-bottom-mobile: 50px;
+  --DialogContent-padding-left-mobile: 0px;
+  --DialogContent-padding-right-mobile: 0px;
+  --DialogTitle-padding-mobile: 10px;
+  --DialogTitle-font-size-mobile: 30px;
+  --ButtonGroup-margin-top-mobile: 5px;
+  --Button-height-mobile: 50px;
+  --IconButton-size-mobile: 40px;
+  --Label-width-mobile: calc(50vw - 20px - 20px - 20px);
+  --Fieldset_ListItem-font-size-mobile: 1em;
+
+  --Input-height: 35px;
+}
