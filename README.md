@@ -46,13 +46,13 @@ When the option to create custom sections selections is enabled, it is possible 
 named sections selection.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_choose_01.png">
-    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_choose_01_mini.png" 
+  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_choose_01.png">
+    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_choose_01_mini.png" 
       alt="A screenshot showing sections being selected">
     <div style="text-align: justify;">Sections 2a to 2d from the Academic Vocabulary exercise being selected.</div>
   </a>
-  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_choose_02.png">
-    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_choose_02_mini.png" 
+  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_choose_02.png">
+    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_choose_02_mini.png" 
       alt="A screenshot showing a popup to save a custom sections selection with the name 'Exercise 2a to 2d'">
     <div style="text-align: justify;">Saving sections 2a to 2d from Academic Vocabulary as a new custom sections selection.</div>
   </a>
@@ -65,8 +65,8 @@ selections that have been created, allowing for them to be practiced in a single
 "intelligent artificial learning coach" that is Wordalist.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_start_practice_01.png">
-    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_start_practice_01_mini.png" 
+  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_start_practice_01.png">
+    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_start_practice_01_mini.png" 
       alt="A screenshot showing the link to a custom selections exercise and what location it addresses.">
     <div style="text-align: justify;">Custom sections selections are practiced by clicking the name of the selection in the <b>WLE Selections</b> menu.</div>
   </a>
@@ -80,23 +80,23 @@ The **WLE Selections** menu further allows for reordering, modifying or deleting
 Furthermore, custom sections selections can be exported later to be imported elsewhere, to share with a friend.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_saved_01.png">
-    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_saved_01_mini.png" 
+  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_saved_01.png">
+    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_saved_01_mini.png" 
       alt="A screenshot showing saved custom sections selections.">
     <div style="text-align: justify;">Saved custom selections available in the <b>WLE Selections</b> menu categorized under their exercise (<i>Academic Vocabulary</i>).</div>
   </a>
-  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_saved_02.png">
-    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_saved_02_mini.png" 
+  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_saved_02.png">
+    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_saved_02_mini.png" 
       alt="A screenshot showing which sections are included in a specific custom sections selection.">
     <div style="text-align: justify;">Clicking the middle action button allows for inspection and management of sections included within a custom sections selection.</div>
   </a>
-  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_export_01.png">
-    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_export_01_mini.png" 
+  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_export_01.png">
+    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_export_01_mini.png" 
       alt="A screenshot showing custom sections selections being exported to the clipboard.">
     <div style="text-align: justify;">Under "export exercises" in the <b>WLE Selections</b> menu, clicking the text area copies the custom sections selections to the clipboard.</div>
   </a>
-  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_import_01.png">
-    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_selections_import_01_mini.png" 
+  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_import_01.png">
+    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_selections_import_01_mini.png" 
       alt="A screenshot...">
     <div style="text-align: justify;">Under "import exercises" in the <b>WLE Selections</b> menu, custom sections selections may be imported by pasting text previously exported.</div>
   </a>
@@ -110,13 +110,13 @@ With a click of a button, all questions are loaded onto the current page making 
 are looking for.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_load_pages_01.png">
-    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_load_pages_01_mini.png" 
+  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_load_pages_01.png">
+    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_load_pages_01_mini.png" 
       alt="A screenshot showing the button to load all questions for a section.">
     <div style="text-align: justify;">Clicking the "show all questions" button loads all questions from the section onto the current page.</div>
   </a>
-  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_load_pages_02.png">
-    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/wle_load_pages_02_mini.png" 
+  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_load_pages_02.png">
+    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/wle_load_pages_02_mini.png" 
       alt="A screenshot showing that all questions have been loaded for a section.">
     <div style="text-align: justify;">After all questions have been loaded on the current page, it is easy to scroll through the different pages of questions which are neatly separated.</div>
   </a>
@@ -129,13 +129,13 @@ When using **Wordalist Enhancements** on a larger screen, all functionality will
 When a smaller screen is used, the added functionality will be accessible without opening the ordinary menu.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/desktop_mobile_01.png">
-    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/desktop_mobile_01_mini.png" 
+  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/desktop_mobile_01.png">
+    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/desktop_mobile_01_mini.png" 
       alt="A screenshot showing the icons used for managing Wordalist Enhancements on a smaller screen">
     <div style="text-align: justify;">On a smaller screen, the functionality added by <b>Wordalist Enhancements</b> is accessible via the purple icons.</div>
   </a>
-  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/desktop_mobile_02.png">
-    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/desktop_mobile_02_mini.png" 
+  <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/desktop_mobile_02.png">
+    <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/desktop_mobile_02_mini.png" 
       alt="A screenshot showing the icons being minimized after the user has scrolled down on a page">
     <div style="text-align: justify;">When scrolling down, the icons are minimized to not be in the way of the user's experience on Wordalist.</div>
   </a>
@@ -163,19 +163,19 @@ the **Wordalist Enhancements** userscript.
 ### Userscript
 
 - [Install from Greasyfork][install-greasyfork-url]
-- [Install from GitHub][firefox-tampermonkey-link]
+- [Install from GitHub][install-github-url]
 
 [install-greasyfork-url]: https://greasyfork.org/en/scripts/471259-wle-wordalist-enhancements
 
-[install-github-url]: https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/packages/userscript/dist/chatgpt.user.js
+[install-github-url]: https://github.com/martenb-se/wordalist-enhancements/raw/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/packages/userscript/dist/wordalist.user.js
 
 ## Configuration
 
 1. Click the **WLE Settings** in the bottom menu.
 
    <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/usage_configure_01.png">
-       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/usage_configure_01_mini.png" 
+     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/usage_configure_01.png">
+       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/usage_configure_01_mini.png" 
          alt="A screenshot showing the WLE Settings menu item added to the ordinary Wordalist menu">
        <div style="text-align: justify;">The <b>WLE Settings</b> menu item is added to the bottom menu,</div>
      </a>
@@ -183,8 +183,8 @@ the **Wordalist Enhancements** userscript.
 2. Activate the desired functionality.
 
    <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/usage_configure_02.png">
-       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/usage_configure_02_mini.png" 
+     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/usage_configure_02.png">
+       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/usage_configure_02_mini.png" 
          alt="A screenshot showing the functionalities that may be activated in the WLE Settings menu.">
        <div style="text-align: justify;">In the <b>WLE Settings</b> menu it is possible to activate various functionalities.</div>
      </a>
@@ -201,13 +201,13 @@ At the time it is only possible to synchronize using Firebase.
    choose "Start in test mode".
 
    <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_01.png">
-       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_01_mini.png" 
+     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_01.png">
+       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_01_mini.png" 
          alt="A screenshot showing the 'Realtime Database' menu item in the main menu on Firebase">
        <div style="text-align: justify;">Firebase realtime database is accessible via the main menu when in a project.</div>
      </a>
-     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_02.png">
-       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_02_mini.png" 
+     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_02.png">
+       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_02_mini.png" 
          alt="A screenshot showing the button to create a realtime database for a Firebase project.">
        <div style="text-align: justify;">When no realtime database has been created, there is a button to create one.</div>
      </a>
@@ -217,8 +217,8 @@ At the time it is only possible to synchronize using Firebase.
    Publish the changes.
 
    <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_03.png">
-       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_03_mini.png" 
+     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_03.png">
+       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_03_mini.png" 
          alt="A screenshot showing where the database rules are and the settings that are necessary for Wordalist Enhancements sync">
        <div style="text-align: justify;">Both read and write rules for the realtime database must be set to "true" for Wordalist Enhancements synchronization to work.</div>
      </a>
@@ -230,8 +230,8 @@ At the time it is only possible to synchronize using Firebase.
 4. Create a new Web App*, select **npm** and click the "Continue to console" button.
 
    <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_04.png">
-       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_04_mini.png" 
+     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_04.png">
+       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_04_mini.png" 
          alt="A screenshot showing which icon is used to create a new Firebase web app.">
        <div style="text-align: justify;">On the project home page it is possible to create a new web app by clicking the leftmost white icon.</div>
      </a>
@@ -242,18 +242,18 @@ At the time it is only possible to synchronize using Firebase.
    "SDK setup and configuration". Then copy the whole config.
 
    <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_05.png">
-       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_05_mini.png" 
+     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_05.png">
+       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_05_mini.png" 
          alt="A screenshot showing how to open the menu for Firebase apps.">
        <div style="text-align: justify;">App management is available via the "1 app" button on the project page.</div>
      </a>
-     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_06.png">
-       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_06_mini.png" 
+     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_06.png">
+       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_06_mini.png" 
          alt="A screenshot showing where the settings button for a Firebase app is.">
        <div style="text-align: justify;">Next to a Firebase app is the button for the application's settings.</div>
      </a>
-     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_07.png">
-       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_setup_07_mini.png" 
+     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_07.png">
+       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_setup_07_mini.png" 
          alt="A screenshot showing the Firebase configuration available via the Firebase app settings.">
        <div style="text-align: justify;">The Firebase configuration is available in the app settings under the "Config" option. It may be copied with the click of a button.</div>
      </a>
@@ -265,13 +265,13 @@ At the time it is only possible to synchronize using Firebase.
    correct, an error message will be displayed.
 
    <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_sync_01.png">
-       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_sync_01_mini.png" 
+     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_sync_01.png">
+       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_sync_01_mini.png" 
          alt="A screenshot showing the WLE Sync menu when no values have been synchronized.">
        <div style="text-align: justify;">Information that is not synchronized will show up in red text in the <b>WLE Sync</b> menu. Clicking the green upload button next to a local value sends the value to Firebase, and clicking the blue button downloads a value from Firebase.</div>
      </a>
-     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_sync_02.png">
-       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/e750b7983ee9b7c1a6a13a73a63c5213a43a9a8b/resources/images/firebase_sync_02_mini.png" 
+     <a style="width: 300px" href="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_sync_02.png">
+       <img src="https://github.com/martenb-se/wordalist-enhancements/blob/7a5ea5f566bb75ba8d8d4cbe0f4ec9bb87ebcbbc/resources/images/firebase_sync_02_mini.png" 
          alt="A screenshot showing the WLE Sync menu when the selected language has been synchronized with Firebase.">
        <div style="text-align: justify;">When a value is uploaded to Firebase it shows up in the menu and the buttons have now been inactivated as there is no value to synchronize.</div>
      </a>
